@@ -7,11 +7,11 @@ npm install
 ```
 
 
-
-
 ## Running
 
 Make sure to add a `config.js` file in the `config` folder. See the example there for more details.
+
+The server connects to the database on port 27017 (see config/config.js).
 
 Development (Webpack dev server) mode:
 
